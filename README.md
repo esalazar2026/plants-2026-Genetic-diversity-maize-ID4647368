@@ -2,7 +2,7 @@
 
 Data and analysis scripts supporting the article submitted to *Plants* (MDPI), manuscript ID **plants-4647368**:
 
-> **[Authors]**. **[Article title]**. *Plants* **[year, volume, article number]**. https://doi.org/[DOI — add when published]
+> **[Authors]**. **Genome-wide SNP genotyping reveals the genetic diversity and population structure of the Chilean national maize germplasm collection**. *Plants* **[year, volume, article number]**. https://doi.org/[DOI — add when published]
 
 The repository contains the quality-filtered DArTseq SNP matrix for 1,157 maize accessions (bulked samples), the
 accession metadata, and the Python scripts used for the revised analyses: read-based within-pool allele frequencies,
